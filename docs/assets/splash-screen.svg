@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 946 2048" role="img" aria-labelledby="title description">
+  <title id="title">Barkod Tarayıcı ve Üretici açılış ekranı</title>
+  <desc id="description">Siyah arka plan üzerinde uygulama ikonu, uygulama adı ve sloganı.</desc>
+  <rect width="946" height="2048" fill="#000"/>
+
+  <text x="118" y="91" fill="#fff" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="40" font-weight="700">20:36</text>
+
+  <g transform="translate(675 82)" fill="#3b3b3d">
+    <rect x="0" y="0" width="8" height="8" rx="2"/>
+    <rect x="13" y="0" width="8" height="8" rx="2"/>
+    <rect x="26" y="0" width="8" height="8" rx="2"/>
+    <rect x="39" y="0" width="8" height="8" rx="2"/>
+  </g>
+
+  <g transform="translate(741 63)" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round">
+    <path d="M0 10 C18 -5 42 -5 60 10"/>
+    <path d="M10 21 C22 11 38 11 50 21"/>
+    <path d="M23 33 C27 29 33 29 37 33"/>
+  </g>
+
+  <g transform="translate(797 61)">
+    <rect x="0" y="0" width="58" height="29" rx="9" fill="none" stroke="#626267" stroke-width="3"/>
+    <rect x="5" y="5" width="47" height="19" rx="5" fill="#fff"/>
+    <rect x="61" y="9" width="4" height="11" rx="2" fill="#626267"/>
+  </g>
+
+  <g transform="translate(330 783)">
+    <rect width="282" height="282" rx="70" fill="#fff"/>
+    <path fill="#000" d="M52 52h134v45H97v44H52zm134 45h44v44h-44zm-89 44h44v45H97zm-45 45h45v44H52zm89 0h89v44h-89z"/>
+  </g>
+  <text x="473" y="1187" fill="#fff" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-2">Barkod Tarayıcı &amp; Üretici</text>
+  <text x="473" y="1255" fill="#9a99a3" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="5">TARA • OLUŞTUR • PAYLAŞ</text>
+</svg>
